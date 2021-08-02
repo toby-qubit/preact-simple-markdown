@@ -1,0 +1,14 @@
+{
+  "name": "preact-simple-markdown",
+  "version": "0.0.3",
+  "dependencies": {
+    "preact-html-converter": "^0.4.2",
+    "snarkdown": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
